@@ -1,6 +1,6 @@
 Dear Viewer,
 
-This is my git repository. Please reach out for with any questions.
+This is my git repository for general projects and work examples, please reach out for with any questions.
 
 Thanks,
 
