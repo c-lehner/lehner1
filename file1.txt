@@ -1,7 +1,7 @@
 Dear Viewer,
 
-This is my git repository. 
+This is my git repository. Please reach out for with any questions.
 
 Thanks,
 
-Christian
+Christian Lehner
